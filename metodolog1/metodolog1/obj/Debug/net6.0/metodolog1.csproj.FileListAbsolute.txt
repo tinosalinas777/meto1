@@ -1,0 +1,15 @@
+C:\Users\cristian\source\repos\metodolog1\metodolog1\bin\Debug\net6.0\metodolog1.exe
+C:\Users\cristian\source\repos\metodolog1\metodolog1\bin\Debug\net6.0\metodolog1.deps.json
+C:\Users\cristian\source\repos\metodolog1\metodolog1\bin\Debug\net6.0\metodolog1.runtimeconfig.json
+C:\Users\cristian\source\repos\metodolog1\metodolog1\bin\Debug\net6.0\metodolog1.dll
+C:\Users\cristian\source\repos\metodolog1\metodolog1\bin\Debug\net6.0\metodolog1.pdb
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.csproj.AssemblyReference.cache
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.AssemblyInfo.cs
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.dll
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\refint\metodolog1.dll
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.pdb
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\metodolog1.genruntimeconfig.cache
+C:\Users\cristian\source\repos\metodolog1\metodolog1\obj\Debug\net6.0\ref\metodolog1.dll
